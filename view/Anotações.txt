@@ -1,0 +1,1 @@
+Cores: claro #f1dd80, escuro: #a57d24
